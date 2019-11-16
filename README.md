@@ -1,5 +1,5 @@
 # Irrigation-Data-Visualizer
-Python script designed to parse and graph multiple data fields taken from irrigation tools from csv files, using matplotlib and dateutil.
+Python script designed to parse and graph multiple data fields taken from irrigation tools from csv files, using the python libraries matplotlib and dateutil.
 
 ### graphing.py
 The main script for the project, which uses matplotlib in order to visualize very large data sets from irrigation tools. Each 
